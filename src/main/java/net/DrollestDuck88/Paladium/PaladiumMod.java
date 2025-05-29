@@ -1,7 +1,6 @@
 package net.DrollestDuck88.Paladium;
 
 import net.DrollestDuck88.Paladium.item.ModItems;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
 
