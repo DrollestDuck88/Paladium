@@ -1,5 +1,6 @@
 package net.DrollestDuck88.Paladium;
 
+import net.DrollestDuck88.Paladium.block.ModBlocks;
 import net.DrollestDuck88.Paladium.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
@@ -40,6 +41,7 @@ public class PaladiumMod {
         NeoForge.EVENT_BUS.register(this);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
@@ -66,6 +68,7 @@ public class PaladiumMod {
 
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS)
             event.accept(ModItems.PALADIUM_INGOT);
+        event.accept(ModBlocks.PALADIUM_BLOCK);
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

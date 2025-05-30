@@ -1,5 +1,149 @@
 {
-  "itemGroup.paladium": "Paladium Mod Tab",
-  "block.paladium.paladium_block": "Example Block",
-  "item.paladium.paladium": "Paladium Ingot"
+  "item.paladium.endium_ingot": "Endium Ingot",
+  "item.paladium.endium_nugget": "Endium Nugget",
+  "item.paladium.endium_fragment": "Endium Fragment",
+  "item.paladium.paladium_green_ingot": "Paladium Green Ingot",
+  "item.paladium.paladium_ingot": "Paladium Ingot",
+  "item.paladium.titane_ingot": "Titane Ingot",
+  "item.paladium.amethyst_ingot": "Amethyst Ingot",
+  "item.paladium.findium": "Findium",
+
+  "item.paladium.iron_particle": "Iron Particle",
+  "item.paladium.gold_particle": "Gold Particle",
+  "item.paladium.diamond_particle": "Diamond Particle",
+  "item.paladium.amethyst_particle": "Amethyst Particle",
+  "item.paladium.titane_particle": "Titane Particle",
+  "item.paladium.paladium_particle": "Paladium Particle",
+
+  "item.paladium.paladium_core": "Paladium Core",
+
+  "item.paladium.raw_green_paladium": "Raw Paladium Green",
+  "item.paladium.raw_paladium": "Raw Paladium",
+  "item.paladium.raw_titane": "Raw Titane",
+  "item.paladium.raw_amethyst": "Raw Amethyst",
+
+  "item.paladium.compressed_amethyst": "Compressed Amethyst",
+  "item.paladium.compressed_titane": "Compressed Titane",
+  "item.paladium.compressed_paladium": "Compressed Paladium",
+
+  "item.paladium.endium_pickaxe": "Endium Hammer",
+  "item.paladium.paladium_hammer": "Paladium Hammer",
+  "item.paladium.titane_hammer": "Titane Hammer",
+  "item.paladium.amethyst_hammer": "Amethyst Hammer",
+
+  "item.paladium.paladium_axe": "Paladium Axe",
+  "item.paladium.paladium_pickaxe": "Paladium Pickaxe",
+  "item.paladium.paladium_shovel": "Paladium Shovel",
+  "item.paladium.paladium_sword": "Paladium Sword",
+
+  "item.paladium.titane_axe": "Titane Axe",
+  "item.paladium.titane_pickaxe": "Titane Pickaxe",
+  "item.paladium.titane_shovel": "Titane Shovel",
+  "item.paladium.titane_sword": "Titane Sword",
+
+  "item.paladium.amethyst_axe": "Amethyst Axe",
+  "item.paladium.amethyst_pickaxe": "Amethyst Pickaxe",
+  "item.paladium.amethyst_shovel": "Amethyst Shovel",
+  "item.paladium.amethyst_sword": "Amethyst Sword",
+
+  "item.paladium.cobblebreaker_amethyst_upgrade": "Amethyst Upgrade",
+  "item.paladium.cobblebreaker_titane_upgrade": "Titane Upgrade",
+  "item.paladium.cobblebreaker_paladium_upgrade": "Paladium Upgrade",
+
+  "item.paladium.gold_mixed_coal": "Gold Mixed Coal",
+  "item.paladium.amethyst_mixed_coal": "Amethyst Mixed Coal",
+  "item.paladium.titane_mixed_coal": "Titane Mixed Coal",
+  "item.paladium.pala_mixed_coal": "Pala Mixed Coal",
+
+  "item.paladium.fortune_modifier": "Fortune Modifier",
+  "item.paladium.speed_modifier": "Speed Modifier",
+  "item.paladium.more_upgrade_modifier": "More Upgrade Modifier",
+
+  "item.paladium.speed_orb": "Speed Orb",
+
+  "item.paladium.paladium_apple": "Paladium Apple",
+  "item.paladium.voidstone": "Voidstone",
+
+  "item.paladium.orangeblue_seeds": "Orangeblue Seeds",
+  "item.paladium.kiwano_seeds": "Kiwano Seeds",
+  "item.paladium.chervil_seeds": "Chervil Seeds",
+  "item.paladium.eggplant_seeds": "Eggplant Seeds",
+
+  "item.paladium.orangeblue": "Orangeblue",
+  "item.paladium.kiwano": "Kiwano",
+  "item.paladium.chervil": "Chervil",
+  "item.paladium.eggplants": "Eggplants",
+
+  "item.paladium.endium_helmet": "Paladium Helmet",
+  "item.paladium.endium_chestplate": "Paladium Chestplate",
+  "item.paladium.endium_leggings": "Paladium Leggings",
+  "item.paladium.endium_boots": "Paladium Boots",
+
+  "item.paladium.paladium_green_helmet": "Paladium Green Helmet",
+  "item.paladium.paladium_green_chestplate": "Paladium Green Chestplate",
+  "item.paladium.paladium_green_leggings": "Paladium Green Leggings",
+  "item.paladium.paladium_green_boots": "Paladium Green Boots",
+
+  "item.paladium.paladium_helmet": "Paladium Helmet",
+  "item.paladium.paladium_chestplate": "Paladium Chestplate",
+  "item.paladium.paladium_leggings": "Paladium Leggings",
+  "item.paladium.paladium_boots": "Paladium Boots",
+
+  "item.paladium.titane_helmet": "Titane Helmet",
+  "item.paladium.titane_chestplate": "Titane Chestplate",
+  "item.paladium.titane_leggings": "Titane Leggings",
+  "item.paladium.titane_boots": "Titane Boots",
+
+  "item.paladium.amethyst_helmet": "Amethyst Helmet",
+  "item.paladium.amethyst_chestplate": "Amethyst Chestplate",
+  "item.paladium.amethyst_leggings": "Amethyst Leggings",
+  "item.paladium.amethyst_boots": "Amethyst Boots",
+
+  "item.paladium.socket_pattern": "Socket Pattern",
+  "item.paladium.axe_pattern": "Axe Pattern",
+  "item.paladium.hammer_pattern": "Hammer Pattern",
+  "item.paladium.shovel_pattern": "Shovel Pattern",
+  "item.paladium.broadsword_pattern": "Broadsword Pattern",
+  "item.paladium.fastsword_pattern": "Fastsword Pattern",
+  "item.paladium.pickaxe_pattern": "Pickaxe Pattern",
+  "item.paladium.sword_pattern": "Sword Pattern",
+  "item.paladium.ingot_pattern": "Ingot Pattern",
+  "item.paladium.block_pattern": "Block Pattern",
+
+  "item.paladium.head_axe": "Axe Head",
+  "item.paladium.head_hammer": "Hammer Head",
+  "item.paladium.head_shovel": "Shovel Head",
+  "item.paladium.head_broadsword": "Broadsword Head",
+  "item.paladium.head_fastsword": "Fastsword Head",
+  "item.paladium.head_pickaxe": "Pickaxe Head",
+  "item.paladium.head_sword": "Sword Head",
+
+  "block.tutorialmod.endium_block": "Endium Block",
+  "block.tutorialmod.green_paladium_block": "Paladium Green Block",
+  "block.tutorialmod.paladium_block": "Paladium Block",
+  "block.paladium.titane_block": "Titane Block",
+  "block.paladium.amethyst_block": "Amethyst Block",
+  "block.paladium.findium_block": "Findium Block",
+
+  "block.paladium.endium_ore": "Endium Ore",
+  "block.paladium.paladium_green_ore": "Green Paladium Ore",
+  "block.paladium.paladium_ore": "Paladium Ore",
+  "block.paladium.titane_ore": "Titane Ore",
+  "block.paladium.amethyst_ore": "Amethyst Ore",
+  "block.paladium.findium_ore": "Findium Ore",
+
+  "block.paladium.deepslate_endium_ore": "Deepslate Endium Ore",
+  "block.paladium.deepslate_paladium_green_ore": "Deepslate Green Paladium Ore",
+  "block.paladium.deepslate_paladium_ore": "Deepslate Paladium Ore",
+  "block.paladium.deepslate_titane_ore": "Deepslate Titane Ore",
+  "block.paladium.deepslate_amethyst_ore": "Deepslate Amethyst Ore",
+  "block.paladium.deepslate_findium_ore": "Deepslate Findium Ore",
+
+  "block.paladium.grinder_casing": "Grinder Casing",
+  "block.paladium.grinder_frame": "Grinder Frame",
+
+  "block.paladium.cobblebreaker": "Cobblebreaker",
+
+  "creativetab.tutorial_tab": "Paladium Tutorial Tab"
+
 }
