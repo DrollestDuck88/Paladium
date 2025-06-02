@@ -26,10 +26,12 @@
   "item.paladium.compressed_titane": "Compressed Titane",
   "item.paladium.compressed_paladium": "Compressed Paladium",
 
-  "item.paladium.endium_pickaxe": "Endium Hammer",
   "item.paladium.paladium_hammer": "Paladium Hammer",
   "item.paladium.titane_hammer": "Titane Hammer",
   "item.paladium.amethyst_hammer": "Amethyst Hammer",
+
+  "item.paladium.endium_pickaxe": "Endium Pickaxe",
+  "item.paladium.endium_axe": "Endium Axe",
 
   "item.paladium.paladium_axe": "Paladium Axe",
   "item.paladium.paladium_pickaxe": "Paladium Pickaxe",
@@ -58,7 +60,6 @@
   "item.paladium.fortune_modifier": "Fortune Modifier",
   "item.paladium.speed_modifier": "Speed Modifier",
   "item.paladium.more_upgrade_modifier": "More Upgrade Modifier",
-
   "item.paladium.speed_orb": "Speed Orb",
 
   "item.paladium.paladium_apple": "Paladium Apple",
@@ -74,10 +75,10 @@
   "item.paladium.chervil": "Chervil",
   "item.paladium.eggplants": "Eggplants",
 
-  "item.paladium.endium_helmet": "Paladium Helmet",
-  "item.paladium.endium_chestplate": "Paladium Chestplate",
-  "item.paladium.endium_leggings": "Paladium Leggings",
-  "item.paladium.endium_boots": "Paladium Boots",
+  "item.paladium.endium_helmet": "Endium Helmet",
+  "item.paladium.endium_chestplate": "Endium Chestplate",
+  "item.paladium.endium_leggings": "Endium Leggings",
+  "item.paladium.endium_boots": "Endium Boots",
 
   "item.paladium.paladium_green_helmet": "Paladium Green Helmet",
   "item.paladium.paladium_green_chestplate": "Paladium Green Chestplate",

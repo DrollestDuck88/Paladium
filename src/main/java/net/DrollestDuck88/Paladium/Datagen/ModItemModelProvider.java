@@ -71,5 +71,15 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.PICKAXE_HEAD.get());
         basicItem(ModItems.SWORD_HEAD.get());
 
+        //Hammer
+        basicItem(ModItems.PALADIUM_HAMMER.get());
+        basicItem(ModItems.TITANE_HAMMER.get());
+        basicItem(ModItems.AMETHYST_HAMMER.get());
+
+        //Excavator
+        basicItem(ModItems.PALADIUM_EXCAVATOR.get());
+        basicItem(ModItems.TITANE_EXCAVATOR.get());
+        basicItem(ModItems.AMETHYST_EXCAVATOR.get());
+
     }
 }
