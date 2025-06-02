@@ -27,8 +27,13 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
 
     @Override
     protected void generate() {
-        dropSelf(ModBlocks.PALADIUM_BLOCK.get());
+       
 
+dropSelf(ModBlocks.ENDIUM_BLOCK.get());
+dropSelf(ModBlocks.PALADIUM_GREEN_BLOCK.get());
+dropSelf(ModBlocks.PALADIUM_BLOCK.get());
+dropSelf(ModBlocks.TITANE_BLOCK.get());
+dropSelf(ModBlocks.AMETHYST_BLOCK.get());
 //  Ore Drops (other drops than the block itself
 //        add(ModBlocks.PALADIUM_ORE.get(),
 //                block -> createOreDrop(ModBlocks.PALADIUM_ORE.get(), ModItems._RAW_PALADIUM.get()));
